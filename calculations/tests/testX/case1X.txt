@@ -1,0 +1,4 @@
+Average: 11
+Median: 11
+Variance: 0
+Standard Deviation: 0

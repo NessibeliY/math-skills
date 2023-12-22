@@ -1,0 +1,4 @@
+Average: 10
+Median: 10
+Variance: 0
+Standard Deviation: 0

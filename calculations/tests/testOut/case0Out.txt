@@ -1,0 +1,4 @@
+Average: 2224
+Median: 1484
+Variance: 3548864
+Standard Deviation: 1884
